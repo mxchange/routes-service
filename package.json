@@ -1,0 +1,13 @@
+{
+  "name": "routes-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mxchange/routes-service.git",
+  "author": "Martijn <m.gasman@goldrepublic.com>",
+  "license": "MIT",
+  "dependencies": {
+  	"@angular/common": "^4.3.6",
+  	"@angular/router": "^4.3.6",
+  	"lodash": "^4.17.4"
+  }
+}
